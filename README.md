@@ -54,11 +54,9 @@
 
 ###
 
+<br clear="both">
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Me.Draa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Me.Draa&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/CeonlineId/CeonlineId/output/snake.svg" alt="Snake animation" />
+
 
 ###
