@@ -9,6 +9,10 @@
 
 
 ###
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://cdn.pixabay.com/animation/2022/11/09/13/33/13-33-02-34_512.gif)"  />
+
+###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
