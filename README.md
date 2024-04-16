@@ -56,6 +56,6 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/CeonlineId/CeonlineId/blob/main/github-contribution-grid-snake2.svg)
+![](https://raw.githubusercontent.com/CeonlineId/CeonlineId/main/github-contribution-grid-snake.svg)
 
 ###
